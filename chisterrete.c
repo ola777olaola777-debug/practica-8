@@ -1,3 +1,6 @@
+/*Nestor Federico Guadalupe Gonzalez
+Practica 8
+uso de while*/ 
 #include <stdio.h>
 #define MAX 5
 int main ()
